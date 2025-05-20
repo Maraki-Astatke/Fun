@@ -1,0 +1,54 @@
+@import "tailwindcss";
+.header_image {
+ 
+    background: linear-gradient(rgba(4, 9, 30, 0.4), rgba(4, 9, 30, 0.4)), url('image/header.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 90vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: -10px;
+}
+.image1 {
+    background: linear-gradient(rgba(4, 9, 30, 0.4), rgba(4, 9, 30, 0.4)), url('image/header2.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 90vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: -10px;
+  }
+  .image2 {
+    background: linear-gradient(rgba(4, 9, 30, 0.4), rgba(4, 9, 30, 0.4)), url('image/header3.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 90vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: -10px;
+  }
+  .image3 {
+    background: linear-gradient(rgba(4, 9, 30, 0.4), rgba(4, 9, 30, 0.4)), url('image/header4.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 90vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: -10px;
+  }
+  .image4 {
+    background: linear-gradient(rgba(4, 9, 30, 0.4), rgba(4, 9, 30, 0.4)), url('image/header.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 90vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin-top: -10px;
+  }
+  
+  
